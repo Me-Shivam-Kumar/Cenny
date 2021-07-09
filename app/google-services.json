@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "557800355547",
+    "firebase_url": "https://cenny-dd2e1.firebaseio.com",
+    "project_id": "cenny-dd2e1",
+    "storage_bucket": "cenny-dd2e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557800355547:android:ba9e2efe09a7365ea93efe",
+        "android_client_info": {
+          "package_name": "com.cenny.cenny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557800355547-ma5v39h1437er1op764h67g2qs3hr1kd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cenny.cenny",
+            "certificate_hash": "eaee9a70a8384c7066eb22105e219c6e425e6cad"
+          }
+        },
+        {
+          "client_id": "557800355547-pip4k6p9pgr343fipkcat6aqf8p61c1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdSdXPTtjvGqRl_5mJ4r-xXLGgCSMlBVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557800355547-pip4k6p9pgr343fipkcat6aqf8p61c1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
